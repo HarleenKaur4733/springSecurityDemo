@@ -1,0 +1,8 @@
+Reflection in Java is a mechanism to inspect and manipulate classes, 
+methods, and fields at runtime. Frameworks use it for dependency injection 
+and configuration without needing to know classes at compile time.
+
+
+Step1: Create a user
+// to-do
+understand architecture
